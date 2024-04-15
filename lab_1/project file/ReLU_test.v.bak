@@ -1,0 +1,22 @@
+`timescale 1ns/10ps
+module testbench();
+reg [0:7]data_input;
+wire [0:7]data_output;
+ReLU Relu(.data_i(data_input),.q(data_output));
+initial fork
+        data_input=-8'd99;
+    #10 data_input=8'd0;
+    #15 data_input=8'd127;
+join
+endmodule
+
+
+
+
+
+
+
+
+
+
+

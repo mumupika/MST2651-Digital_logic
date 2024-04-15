@@ -1,0 +1,15 @@
+C:/Users/Dell/Desktop/lab_1/ReLU.v {1 {vlog -work work -vopt -stats=none C:/Users/Dell/Desktop/lab_1/ReLU.v
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module ReLU
+
+Top level modules:
+	ReLU
+
+} {} {}} C:/Users/Dell/Desktop/lab_1/ReLU_test.v {1 {vlog -work work -vopt -stats=none C:/Users/Dell/Desktop/lab_1/ReLU_test.v
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}

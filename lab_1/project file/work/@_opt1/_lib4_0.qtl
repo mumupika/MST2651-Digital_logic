@@ -1,0 +1,155 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/questasim64_10.4c/examples
+T_opt
+!s110 1712710520
+VmV;8GclHCGhN6CkFI924Z0
+04 4 4 work ReLU fast 0
+=1-b07b25766508-6615e378-167-3aac
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.4c;61
+R0
+T_opt1
+!s110 1712721169
+V2H@3=7^;CF]PPhZ4[@@6l1
+04 9 4 work testbench fast 0
+=1-b07b25766508-66160d11-6-273c
+R1
+n@_opt1
+R2
+T_opt2
+!s110 1712721014
+VIP4UQ;=02IB3mAVGYD2kA2
+04 11 4 work testbench_2 fast 0
+=1-b07b25766508-66160c76-2fb-31b0
+R1
+n@_opt2
+R2
+R0
+vReLU
+Z3 !s110 1712721153
+!i10b 1
+!s100 31mS@jnaWN>nD@fzBkXY<0
+IzM8;Cf0ZY0l8LT2>8oCGN3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dC:/Users/Dell/Desktop/lab_1
+w1712711261
+8C:/Users/Dell/Desktop/lab_1/ReLU.v
+FC:/Users/Dell/Desktop/lab_1/ReLU.v
+L0 1
+Z6 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z7 !s108 1712721153.000000
+!s107 C:/Users/Dell/Desktop/lab_1/ReLU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/lab_1/ReLU.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@re@l@u
+vSiLU
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 VmJ[BHd18@iHeg4GRQWEn0
+II^jUz[1:EZT83W2EM4b1]0
+R5
+w1712712484
+8C:/Users/Dell/Desktop/lab_1/SiLU.v
+FC:/Users/Dell/Desktop/lab_1/SiLU.v
+L0 1
+R6
+Z9 !s108 1712713089.000000
+!s107 C:/Users/Dell/Desktop/lab_1/SiLU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/lab_1/SiLU.v|
+!i113 0
+R8
+n@si@l@u
+vSiLU_adv
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 UC6zDTg;LI<Jo7jcVVbjl3
+IohCW@;NA<EHl]4?XQ<blP1
+R5
+w1712720835
+8C:/Users/Dell/Desktop/lab_1/SiLU_adv.v
+FC:/Users/Dell/Desktop/lab_1/SiLU_adv.v
+L0 1
+R6
+Z10 !s108 1712720840.000000
+!s107 C:/Users/Dell/Desktop/lab_1/SiLU_adv.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/lab_1/SiLU_adv.v|
+!i113 0
+R8
+n@si@l@u_adv
+vtestbench
+R3
+!i10b 1
+!s100 5]DBzBnN3R9;`8;QLC:a81
+In<R=5M0_NNkC7M0kKgzSo1
+R4
+R5
+w1712712083
+8C:/Users/Dell/Desktop/lab_1/ReLU_test.v
+FC:/Users/Dell/Desktop/lab_1/ReLU_test.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Dell/Desktop/lab_1/ReLU_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/lab_1/ReLU_test.v|
+!i113 0
+R8
+vtestbench_2
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 nakV1C6iYUOA;WMiMzV6a3
+IEi0oB=bDQW6IoD?Rzi>2z3
+R5
+w1712713085
+8C:/Users/Dell/Desktop/lab_1/SiLU_test.v
+FC:/Users/Dell/Desktop/lab_1/SiLU_test.v
+L0 2
+R6
+R9
+!s107 C:/Users/Dell/Desktop/lab_1/SiLU_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/lab_1/SiLU_test.v|
+!i113 0
+R8
+vtestbench_3
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 =EJl7^FbKe?R@=kKa2:C;3
+IViigkDe0R`998zC0JHbJb0
+R5
+w1712717160
+8C:/Users/Dell/Desktop/lab_1/SiLU_adv_test.v
+FC:/Users/Dell/Desktop/lab_1/SiLU_adv_test.v
+L0 2
+R6
+R10
+!s107 C:/Users/Dell/Desktop/lab_1/SiLU_adv_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/lab_1/SiLU_adv_test.v|
+!i113 0
+R8

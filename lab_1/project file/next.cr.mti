@@ -1,0 +1,15 @@
+C:/Users/Dell/Desktop/lab_1/SiLU_test.v {1 {vlog -work work -vopt -stats=none C:/Users/Dell/Desktop/lab_1/SiLU_test.v
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module testbench_2
+
+Top level modules:
+	testbench_2
+
+} {} {}} C:/Users/Dell/Desktop/lab_1/SiLU.v {1 {vlog -work work -vopt -stats=none C:/Users/Dell/Desktop/lab_1/SiLU.v
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module SiLU
+
+Top level modules:
+	SiLU
+
+} {} {}}
